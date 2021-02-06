@@ -6,7 +6,6 @@ const Body = Matter.Body;
 const Render = Matter.Render;
 var dustbinObj,groundObject	
 var world;
-var paperObject;
 
 
 function setup() {
